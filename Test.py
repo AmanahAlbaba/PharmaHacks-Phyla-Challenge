@@ -1,2 +1,1 @@
-!git add "Test.py"
-!git push origin master
+print("hi Adam")
