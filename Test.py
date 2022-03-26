@@ -1,2 +1,2 @@
-print("hi")
-print("Aloha")
+!git add "Test.py"
+!git push origin master
